@@ -1,0 +1,16 @@
+.home-wr {
+  position: relative;
+  width: 80%;
+  margin: 30px 10%;
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+}
+
+.logo {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  line-height: 48px;
+  position: absolute;
+  left: 220px;
+  color: #fff;
+  font-size: 20px;
+}
